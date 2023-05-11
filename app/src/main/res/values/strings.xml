@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MentionTextField</string>
+    <string name="share_experience_hint">Share your experience</string>
+</resources>
